@@ -13,10 +13,10 @@
     "vinyl": "^2.1.0"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
+    "eslint": "^7.16.0",
     "event-stream": "^4.0.1",
     "gulp": "^4.0.2",
-    "mocha": "^7.1.1",
+    "mocha": "^8.3.0",
     "prettier": "^2.0.2",
     "should": "^13.2.3"
   },
